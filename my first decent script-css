@@ -1,0 +1,36 @@
+body { background-color:grey;}
+
+h1{
+  background-color:#535351;
+  font-size: 300%;
+  color: cyan;
+  text-align: center;
+  padding-top: 1em;
+  font-family: chiller, arial;
+  border-radius: 100em
+;
+}
+p{
+  color: #aff;
+font-style:bold;
+  background-color: teal;
+  padding: 1em;
+  border-radius: 2em;
+ 
+}
+
+blockquote{color: #aff;
+background-color: royalblue;
+  padding: 2em;
+  font-style: italic;
+  border-radius: 9em
+}
+
+p#bottom {
+  font-family: "arial";
+  font-size: large;
+}
+p#main {
+  font-size: large;
+  padding-right: 2em;
+}
