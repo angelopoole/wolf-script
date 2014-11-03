@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title> new stuff 
+  </title>
+  </head>
+<body>
+<h1> The average day of a turtle and a turtle owner</h1>
+  <blockquote>
+    Turtle owning is a way of life.
+    you cant beat turtles
+    no way no how.
+    I like turtles
+    what else can i say...<br>
+    -anonomus turtle lover
+    
+  </blockquote>
+  </p>
+  <! an ip shows the identification for css>
+  <p id="bottom"> Turtles are a species from the reptile family and have strong shells on there back for the protection from other predators.&nbsp; turtles are a good starter pet to get your child because they dont need much maintenence, sonsider wisely when at the pet shop.
+  </p>
+  
+  <p id="main">
+  <img src="https://i.chzbgr.com/maxW500/5323653632/h308A04E8/" width= "375" height="200">
+  just look at how adorable these two turtles are with there light sabers. &nbsp; it makes you wanna get a turtle now right?  
+  </p>
+</body>
+</html>
